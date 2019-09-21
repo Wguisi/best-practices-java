@@ -16,4 +16,4 @@ That's a good tool for it: [GitFlowCheatSheet](http://danielkummer.github.io/git
 6. After that, create a feature: *git flow feature start MYFEATURE*
 7. When you finish coding, just commit and push. On Github, ask for a Pull Request.
 8. Same works for *release* branch: *git flow release start RELEASE*
-9. 
+9. Important detail: do not *finish* or *publish* using this tool. Won't works. Always Pull Request.
