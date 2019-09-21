@@ -3,10 +3,10 @@ Design to aggregate various design patterns and best practices
 
 ## Markdown Readme.md
 You can use this to help write the Readme
-[Link](https://commonmark.org/help/)
+[CommonMark](https://commonmark.org/help/)
 
 ## How to GitFlow
-That's a good tool for it: [Link](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+That's a good tool for it: [GitFlowCheatSheet](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
 
 1. First, you must configurate your repository for *develop* and *master* branches.
 2. Define the *develop* as default. When someone clone, will clone that one.
